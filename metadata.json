@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Batch Refiner",
+  "description": "A workflow automation tool that processes images sequentially: it first reverse-engineers the prompt from an uploaded image, then uses that prompt to generate a new variation using Gemini's vision capabilities.",
+  "requestFramePermissions": []
+}
